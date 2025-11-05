@@ -1,3 +1,7 @@
+US Chronic Disease Analysis & Cardiovascular Disease Prediction using Machine Learning
+
+
+
 This project analyzes the U.S. Chronic Disease Dataset to uncover health trends and predict cardiovascular disease prevalence across states. It combines exploratory data analysis (EDA), machine learning modeling, and interactive dashboards to deliver actionable public health insights.
 
 🔍 Key Features
