@@ -46,10 +46,10 @@ Languages: Python
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
 
-Visualization: Plotly, Dash / Streamlit (if used)
+Visualization: Plotly, Dash / Streamlit
 
 Deployment: Google Cloud Platform (GCP)
 
 🎯 Outcome
 
-Accurately predicts the number of cardiovascular disease cases per U.S. state and reveals valuable insights into the evolving public health landscape — supporting data-driven decision-making in healthcare analytics.
+Accurately predicts the number of cardiovascular disease cases per U.S. state and reveals valuable insights into the evolving public health landscape supporting data-driven decision-making in healthcare analytics.
